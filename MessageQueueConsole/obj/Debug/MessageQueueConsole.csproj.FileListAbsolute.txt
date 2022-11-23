@@ -1,0 +1,26 @@
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\MessageQueueConsole.exe.config
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\MessageQueueConsole.exe
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\MessageQueueConsole.pdb
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\Logic.dll
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\DataStructures.dll
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\Logic.pdb
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\DataStructures.pdb
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.csproj.AssemblyReference.cache
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.csproj.SuggestedBindingRedirects.cache
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.csproj.CoreCompileInputs.cache
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.csproj.CopyComplete
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.exe
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\MessageQueueConsole.exe.config
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\MessageQueueConsole.exe
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\MessageQueueConsole.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\Logic.dll
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\DataStructures.dll
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\Logic.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\bin\Debug\DataStructures.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.csproj.AssemblyReference.cache
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.csproj.CoreCompileInputs.cache
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.csproj.CopyComplete
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.exe
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\MessageQueueConsole\obj\Debug\MessageQueueConsole.pdb

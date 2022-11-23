@@ -1,0 +1,11 @@
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\DataStructures\bin\Debug\DataStructures.dll
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\DataStructures\bin\Debug\DataStructures.pdb
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\DataStructures\obj\Debug\DataStructures.dll
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\DataStructures\obj\Debug\DataStructures.pdb

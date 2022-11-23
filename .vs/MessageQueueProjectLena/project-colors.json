@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c153205d-6754-43bf-87eb-f9b02914e175": {
+      "ProjectGuid": "c153205d-6754-43bf-87eb-f9b02914e175",
+      "DisplayName": "MessageQueueConsole",
+      "ColorIndex": 0
+    },
+    "6d888a47-6e7c-43f5-a983-4284444a7eac": {
+      "ProjectGuid": "6d888a47-6e7c-43f5-a983-4284444a7eac",
+      "DisplayName": "Logic",
+      "ColorIndex": 1
+    },
+    "4228a0c3-6109-4eb4-9406-95f0c136c2e9": {
+      "ProjectGuid": "4228a0c3-6109-4eb4-9406-95f0c136c2e9",
+      "DisplayName": "DataStructures",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

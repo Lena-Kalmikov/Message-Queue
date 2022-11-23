@@ -1,0 +1,18 @@
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\bin\Debug\Logic.dll
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\bin\Debug\Logic.pdb
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\bin\Debug\DataStructures.dll
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\bin\Debug\DataStructures.pdb
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\obj\Debug\Logic.csproj.CopyComplete
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\obj\Debug\Logic.dll
+D:\C#\Sela\4_Algorithms and Complexity\FinalProjectMessageQueue\MessageQueueProjectLena\Logic\obj\Debug\Logic.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\bin\Debug\Logic.dll
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\bin\Debug\Logic.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\bin\Debug\DataStructures.dll
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\bin\Debug\DataStructures.pdb
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\obj\Debug\Logic.dll
+C:\Users\Lena\Desktop\לימודים\Sela\Projects\3rd project - data structure and algorithms\MessageQueueProjectLena\Logic\obj\Debug\Logic.pdb
