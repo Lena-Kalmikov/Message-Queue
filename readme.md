@@ -11,3 +11,4 @@ Application:
 5. Read a desired number of oldest or newest messages. 
 6. Read messages by date.
 7. Search messages for a specific word.
+![](https://github.com/Lena-Kalmikov/Message-Queue/blob/main/MessageQueue.gif)
