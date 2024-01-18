@@ -3,6 +3,8 @@
 The goal of this project was to practice, implement, and use different data structures, such as linked list, double linked list, queue and hash table.
 This was done by creating a messaging app.
 
+Written in C# using .Net Framework.
+
 Application: 
 1. Send a message to a contact.
 2. See all existing contacts.
